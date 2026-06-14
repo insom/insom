@@ -1,9 +1,7 @@
 ## ~insom
 
-Hey. Here's some things that I have made or contributed to. I've been an engineer at @slicelife 🍕, @internetarchive 📖, at @Shopify 🛒 and at @iwebsolutions 🕸️ (added together those make nearly twenty years of experience).
+Hey. Here's some things that I have made or contributed to.
 
-~I no longer use GitHub for work, so my contribution graph is fading away -- but I'm inclined to let it fade, thanks.~
+I've been an engineer at @tigrisdata, @slicelife, @internetarchive, at @Shopify and at @iwebsolutions (added together those make over twenty years of experience).
 
-*Updated*: I do actually use it for work now, but I'm still not likely to push new personal projects here.
-
-I'm not boycotting GitHub, but it doesn't suit the way that I want to work on my own things. 🌱
+The map is not the territory. The GitHub contribution history is not the man.
